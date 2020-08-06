@@ -1,8 +1,12 @@
 [
   {
-    "name": "normal-project"
+    "name": "normal-project",
+    "frame": "none",
+    "meta": "webpack eslint"
   },
   {
-    "name": "react-project"
+    "name": "react-project",
+    "frame": "react",
+    "meta": "react redux react-router-dom"
   }
 ]
