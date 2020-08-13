@@ -1,5 +1,10 @@
 [
   {
+    "name": "blank-project",
+    "frame": "none",
+    "meta": "blank"
+  },
+  {
     "name": "normal-project",
     "frame": "none",
     "meta": "webpack eslint"
