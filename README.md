@@ -1,2 +1,1 @@
-# cli-template
-templates for sliver-cli
+# project-template
